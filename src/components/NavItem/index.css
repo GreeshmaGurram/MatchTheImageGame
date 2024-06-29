@@ -1,0 +1,15 @@
+.nav-item {
+  margin: 10px 20px 10px 20px;
+  cursor: pointer;
+}
+
+.nav-text {
+  margin: 0;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.active-nav {
+  border-bottom: 2px solid #fec653;
+  color: #fec653;
+}
