@@ -1,5 +1,5 @@
 import './App.css'
-import MatchGameHome from './components/MatchGameHome/index'
+import MatchGameHome from './components/MatchGameHome/HookIndex'
 
 // These are the lists used in the application. You can move them to any component needed.
 const tabsList = [
